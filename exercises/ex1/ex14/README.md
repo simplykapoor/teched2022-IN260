@@ -10,11 +10,10 @@ Run through the following steps
     <br>![Design menu](/exercises/ex1/images/01-0015.png)
 
 2. In the Monitor overview, select the first tile below the *Manage Integration Content* section
-3. Search for your integration flow, and confirm that the status ahs turned to Started
-
+3. Search for your integration flow, and confirm that the status has turned to **Started**
 
 ## Summary
 
-You should have defined a new integration package.
+At the end of this exercise, you should have a running integration flow that subscribes to your Kafka topic, and sends a welcome email once a new hire has been created.
 
-Continue to - [Exercise 2](/exercises/ex2)
+Next, we will create a new integration flow to trigger a workflow in SAP Process Automation. Continue to - [Exercise 2](/exercises/ex2)
