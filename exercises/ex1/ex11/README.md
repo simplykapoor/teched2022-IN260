@@ -11,13 +11,13 @@ Run through the following steps
 
 2. In the Design area, select button *Create*
 
-    <br>![Design menu](/exercises/ex1/images/01-0002.png)
+    <br>![Create button](/exercises/ex1/images/01-0002.png)
 
 3. In the new package, maintain the unique name **Teched 2022 IN260 - XX** with **XX** the participant number assigned to you
 4. Maintain a short description
 5. When done, click on *Save*
 
-    <br>![Design menu](/exercises/ex1/images/01-0003.png)
+    <br>![Maintain package name](/exercises/ex1/images/01-0003.png)
 
 ## Summary
 
