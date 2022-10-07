@@ -1,8 +1,8 @@
-# Session ID - Session Title
+# IN260 - Achieve Exactly-Once Semantics in Apache Kafka Using SAP Integration Suite
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+Learn how to build an end-to-end event-driven integration scenario where you react and respond to business events using Apache Kafka and SAP Integration Suite to deliver and process a message at the receiver system exactly once.  
 
 ## Overview
 
@@ -10,17 +10,21 @@ This session introduces attendees to...
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+There are no prior requirements to this exercise. You can perform this even if you do not have any experience with integration solutions. However, you will be able to derive a lot of value from this session if you have some knowledge on what SAP Integration Suite is all about and how it helps with enterprise-wide integration needs.
+
+You may check out this mission that can help you getting started with SAP Integration Suite:
+- [Get Started with Integration Suite - Cloud Integration](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3258/3327/)
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+In the following, the complete list of exercise steps are listed. Run through them in the given order. You can use this section as an index or table of contents. Use the breadcrumb navigation on top of the pages to go back to the Table of Contents.
 
 - [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
+- [Exercise 1 - Welcome Email subscription](exercises/ex1/)
+    - [Create a package](exercises/ex1)
+    - [Copy integration flow](exercises/ex2)
+    - [Configure copied integration flow](exercises/ex2)
+- [Exercise 2 - SAP Process Automation subscription](exercises/ex2/)
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
@@ -28,10 +32,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 **OR** Link to the Tutorial Navigator for example...
 
 Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 
