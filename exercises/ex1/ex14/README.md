@@ -10,10 +10,11 @@ Run through the following steps
     <br>![Design menu](/exercises/ex1/images/01-0015.png)
 
 2. In the Monitor overview, select the first tile below the *Manage Integration Content* section
+3. Search for your integration flow, and confirm that the status ahs turned to Started
 
 
 ## Summary
 
 You should have defined a new integration package.
 
-Continue to - [Exercise 1.2](/exercises/ex1/ex12)
+Continue to - [Exercise 2](/exercises/ex2)
