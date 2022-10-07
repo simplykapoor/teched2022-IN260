@@ -1,12 +1,12 @@
 # Exercise 1.2 - Copy integration flow template
 
-
+We have prepared an integration flow that you can use as template to send out the welcome email.
 
 ## Exercise steps
 
 Run through the following steps.
-1. If you are not already in, switch to the *Design* area and enter your package **Teched 2021 Exercise XX** again with **XX** the participant number assigned to you
-2. In the package, switch to *Edit* mode
+1. If you are still within your package, navigate back by selecting *Design* on the breadcrumb navigation
+2. In the Design area, open the *Teched 2022 IN260 - SOL* package
 3. Select menu *Add --> Script Collection*
 4. In the upcoming dialog, switch to the *Upload* radio button, then select *Browse*
 5. Navigate to the **Integration Artifacts** folder of your beforehand downloaded tutorial material, and select the **Scripting - Script Collection XX.zip** file with **XX** the participant number assigned to you, then click on *OK*
