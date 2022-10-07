@@ -5,21 +5,34 @@ We have prepared an integration flow that you can use as template to send out th
 ## Exercise steps
 
 Run through the following steps.
-1. If you are still within your package, navigate back by selecting *Design* on the breadcrumb navigation
-2. In the Design area, open the *Teched 2022 IN260 - SOL* package
-3. Select menu *Add --> Script Collection*
-4. In the upcoming dialog, switch to the *Upload* radio button, then select *Browse*
-5. Navigate to the **Integration Artifacts** folder of your beforehand downloaded tutorial material, and select the **Scripting - Script Collection XX.zip** file with **XX** the participant number assigned to you, then click on *OK*
-6. You should see the script collection in the list of your artifacts
-7. From the action menu of the script collection, select *Deploy*
-8. Like you did for the message mapping, we will navigate to the Operations view to ensure that the artifact has been successfully deployed. Select entry *Monitor* from the navigation pane.
-9. In the Monitor, select the *Script Collection* tile below the *Manage Integration Content* section. If the *Script Collection* tile does not exist, you first need to add it by clicking on the *Plus* sign tile. In the upcoming tile settings dialog, select the *Script Collection* artefact type, then click *OK*
-10. Search for your participant number. After a while the status of your script collection will turn from Starting into **Started**
+1. After having created your package in the previous exercise steps, navigate back by selecting *Design* on the breadcrumb navigation
 
-<br>![xxx](/exercises/ex1/images/01-0004.png)
+    <br>![Breadcrumb Design](/exercises/ex1/images/01-0004.png)
+    
+2. In the Design area, open the **Teched 2022 IN260 - SOL** package
 
+    <br>![Open SOL package](/exercises/ex1/images/01-0005.png)
+    
+3. In the package, switch to the *Artifacts* tab
+
+    <br>![Switch to Artifacts](/exercises/ex1/images/01-0006.png)
+
+4. From the *Actions* menu of the **SAP SFSF New Hire Welcome Email with Qualtrics Survey Link - SOL**, select the menu entry *Copy*
+
+    <br>![Copy](/exercises/ex1/images/01-0007.png)
+
+5. In the upcoming dialog, add the participant number assigned to you to the name of the copied integration flow
+6. **Important**: as target package select your beforehand created package to ensure that the integration flow is copied into your package
+7. When done, select the *Copy* button
+
+    <br>![Maintain name and target](/exercises/ex1/images/01-0008.png)
+
+8. After the integration flow has been copied, you are asked to navigate to your package. Confirm by selecting button *Navigate*
+
+    <br>![Navigate to your package](/exercises/ex1/images/01-0009.png)
+ 
 ## Summary
 
-At the end of this exercise, you should have uploaded and deployed the provided script collection.
+At the end of this exercise, you should have copied the provided integration flow.
 
 Continue to - [Exercise 1.3](/exercises/ex1/ex13)
