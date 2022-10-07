@@ -1,42 +1,22 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 2 - Process Automation
 
-In this exercise, we will create...
+In the second part of the exercise, you will create and model a new integration flow that subscribes to your Kafka topic in order to trigger a workflow in SAP Process Automation once the new hire has been created in SAP SuccessFactors. In this case, duplicate messages must be avoided.
 
-## Exercise 2.1 Sub Exercise 1 Description
+## Exercise steps
 
-After completing these steps you will have created...
+Run through the exercise steps in the given order.
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
+[Create an integration flow stub](ex21)
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+[Model the exactly once part](ex22)
 
+[Deploy your integration flow](ex23)
 
+[Check the deployment status](ex24)
 
-## Exercise 2.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
 
 ## Summary
 
-You've now ...
+At the end of the second part of the tutorial, you should have deployed an integration flow to trigger a workflow supporting exactly once delivery.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Next we will test the integration scenario by creating a new hire in SAP SuccessFactors. Continue to - [Exercise 3](/exercises/ex3)
