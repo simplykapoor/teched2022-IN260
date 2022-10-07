@@ -10,7 +10,12 @@ Run through the following steps
     <br>![Design menu](/exercises/ex1/images/01-0015.png)
 
 2. In the Monitor overview, select the first tile below the *Manage Integration Content* section
+
+    <br>![Design menu](/exercises/ex1/images/01-0016.png)
+
 3. Search for your integration flow, and confirm that the status has turned to **Started**
+
+    <br>![Design menu](/exercises/ex1/images/01-0017.png)
 
 ## Summary
 
