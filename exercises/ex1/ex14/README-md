@@ -1,0 +1,19 @@
+# Exercise 1.4 - Check deployment status of welcome email integration flow
+
+In the following, you will confirm if the deployment of your integration flow was successful.
+
+## Exercise steps
+
+Run through the following steps
+1. From the navigation pane on the left side, switch to the *Monitor* area
+
+    <br>![Design menu](/exercises/ex1/images/01-0015.png)
+
+2. In the Monitor overview, select the first tile below the *Manage Integration Content* section
+
+
+## Summary
+
+You should have defined a new integration package.
+
+Continue to - [Exercise 1.2](/exercises/ex1/ex12)
