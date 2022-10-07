@@ -21,17 +21,13 @@ In the following, the complete list of exercise steps are listed. Run through th
 
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - Welcome Email subscription](exercises/ex1/)
-    - [Create a package](exercises/ex1)
-    - [Copy integration flow](exercises/ex2)
-    - [Configure copied integration flow](exercises/ex2)
+    - [Create a package](exercises/ex1/ex11)
+    - [Copy integration flow](exercises/ex1/ex12)
+    - [Configure and deploy integration flow](exercises/ex1/ex13)
+    - [Check deployment status](exercises/ex1/ex14)
 - [Exercise 2 - SAP Process Automation subscription](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+    - [Create new integration flow](exercises/ex2/ex21)
+    - [Deploy integration flow](exercises/ex2/ex22)
 
 ## How to obtain support
 
