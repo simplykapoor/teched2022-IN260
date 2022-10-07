@@ -6,13 +6,13 @@ In the first part of the exercise, you will setup an integration flow that subsc
 
 Run through the exercise steps in the given order.
 
-[Create an own package](exercises/ex1/ex11)
+[Create an own package](ex11)
 
-[Copy the integration flow template](exercises/ex1/ex12)
+[Copy the integration flow template](ex12)
 
-[Configure and deploy your integration flow](exercises/ex1/ex13)
+[Configure and deploy your integration flow](ex13)
 
-[Check the deployment status](exercises/ex1/ex14)
+[Check the deployment status](ex14)
 
 
 ## Summary
