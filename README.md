@@ -15,11 +15,17 @@ There are no prior requirements to this exercise. You can perform this even if y
 You may check out this mission that can help you getting started with SAP Integration Suite:
 - [Get Started with Integration Suite - Cloud Integration](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3258/3327/)
 
+## System logon & user information
+
+For running through the exercise steps, we will provide an SAP Integration Suite tenant. Tenant URL as well as password information will be provided to you by the instructors.
+
+When you run through the exercise steps, you need to ensure that the technical IDs of the integration artifacts that you will create are unique. Hence, add a participant number to your integration artifacts. The participant number will be assigned to you by the instructors.
+
 ## Exercises
 
 In the following, the complete list of exercise steps are listed. Run through them in the given order. You can use this section as an index or table of contents. Use the breadcrumb navigation on top of the pages to go back to the Table of Contents.
 
-- [Getting Started](exercises/ex0/)
+- [Prerequisites - Create a Kafka topic](exercises/ex0/)
 - [Exercise 1 - Welcome Email subscription](exercises/ex1/)
     - [Create a package](exercises/ex1/ex11)
     - [Copy integration flow](exercises/ex1/ex12)
