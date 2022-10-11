@@ -5,7 +5,9 @@ In the following, you will create a new integration package where you bundle you
 ## Exercise steps
 
 Run through the following steps
-1. Within the Cloud Integration Web UI, switch to the *Design* area
+1. Open the SAP Integration Suite landing page and logon with the user and password provided to you (see system and logon information provided to you)
+
+2. Expand the Navigation pane and switch to the *Design --> Integrations* area
 
     <br>![Design menu](/exercises/ex1/images/01-0001.png)
 
