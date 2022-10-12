@@ -18,4 +18,4 @@ Run through the following steps
 
 You should have ...
 
-Continue to - [Exercise 3.3](/exercises/ex3/ex33)
+Continue to - [Exercise 3.3](/exercises/ex3/ex34)
