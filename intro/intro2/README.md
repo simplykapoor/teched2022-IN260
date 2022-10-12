@@ -11,11 +11,11 @@ Run through the following steps
     <br><img src="/intro/images/SFSF_Logon.PNG" width=70% height=70%>
     
 
-<!--
-2. Switch to the *Environments* page and select the *default* environment
+2. Enter "Integration Center" in the search field. This would bring us to IC.
 
     <br><img src="/exercises/ex0/images/00-0005.png" width=80% height=80%>
-
+    
+<!--
 3. In the *Teched2022_IN260* cluster, select the *Topics* link to navigate to the topics
 
     <br><img src="/exercises/ex0/images/00-0006.png" width=50% height=50%>
