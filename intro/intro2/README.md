@@ -10,6 +10,7 @@ Run through the following steps
 
     <br><img src="/exercises/ex0/images/00-0001.png" width=80% height=80%>
 
+/*
 2. Switch to the *Environments* page and select the *default* environment
 
     <br><img src="/exercises/ex0/images/00-0005.png" width=80% height=80%>
@@ -30,9 +31,10 @@ Run through the following steps
 7. The new topic should have been created. If you navigate back, you should see the new topic in the list of topics
 
     <br><img src="/exercises/ex0/images/00-0011.png" width=80% height=80%>
+ */
 
 ## Summary
 
 You should now be familiar with Success Factors configuration in Integration Center.
 
-Now, we show how tp Publish to Kafka Integration Flow. Continue to - [Exercise 1](/exercises/ex1)
+Now, we show how to Publish to Kafka Integration Flow. Continue to - [intro](/intro/intro3)
