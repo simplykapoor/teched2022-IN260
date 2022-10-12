@@ -13,7 +13,7 @@ Run through the following steps
 
 2. Enter "Integration Center" in the search field. This would bring us to IC.
 
-    <br><img src="/exercises/ex0/images/00-0005.png" width=80% height=80%>
+    <br><img src="/intro/images/SFSF_Admin.PNG" width=70% height=70%>
     
 <!--
 3. In the *Teched2022_IN260* cluster, select the *Topics* link to navigate to the topics
