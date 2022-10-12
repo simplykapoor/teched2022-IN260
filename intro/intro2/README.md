@@ -8,7 +8,7 @@ These are the Success Factors configuration steps which are already completed. T
 Run through the following steps
 1. Logon to the Success Factor with the SF Admin User ID
 
-    <br><img src="/intro/images/SFSF_Logon.PNG" width=80% height=80%>
+    <br><img src="/intro/images/SFSF_Logon.PNG" width=70% height=70%>
     
 
 <!--
