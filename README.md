@@ -8,6 +8,10 @@ Learn how to build an end-to-end event-driven integration scenario where you rea
 
 This session introduces attendees to...
 
+- [Scenario Introduction](intro/intro1)
+- [Event settings in SAP SuccessFactors (for your information only)](intro/intro2)
+- [Publish events to Kafka Integration Flow (for your information only)](intro/intro3)
+
 ## Requirements
 
 There are no prior requirements to this exercise. You can perform this even if you do not have any experience with integration solutions. However, you will be able to derive a lot of value from this session if you have some knowledge on what SAP Integration Suite is all about and how it helps with enterprise-wide integration needs.
