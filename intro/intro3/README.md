@@ -13,7 +13,7 @@ The integration flow consists of the following steps:
 4. In the second content modifier, the employee ID is fetched via an xpath expression from the XML payload and stored in an exchange property. Furthermore, the original JSON payload is written back into the message body to ensure that the original event content is posted to the Kafka topic
 5. Finally, the event is written into a Kafka topic using the Kafka adapter whereas the topic name is dynamically defined based on the exchange property holding the employee ID
 
-    <br><img src="/intro/images/intro-03-0001.png">
+<br><img src="/intro/images/intro-03-0001.png">
 
 Now that you have gone through all introduction chapters, you should have a clear picture of the overall integration scenario, and could start with the actual exercises.
 
