@@ -16,9 +16,8 @@ Run through the exercise steps in the given order.
 
 [Check the SAP Process Automation inbox](ex24)
 
-
 ## Summary
 
 At the end of the third part of the tutorial, you should have tested your overall integration scenario.
 
-Next we will reply the test to proof the exactzly once delivery. Continue to - [Exercise 4](/exercises/ex4)
+Next we will replay the test to proof the exactly once delivery. Continue to - [Exercise 4](/exercises/ex4)
