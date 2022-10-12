@@ -9,15 +9,15 @@ Run through the following steps
 
 2. Expand the Navigation pane and switch to the *Design --> Integrations* area
 
-    <br>![Design menu](/exercises/ex1/images/01-0001.png)
+    <br><img src="/exercises/ex1/images/01-0001.png" width=50% height=50%>
 
-2. In the Design area, select button *Create*
+3. In the Design area, select button *Create*
 
     <br>![Create button](/exercises/ex1/images/01-0002.png)
 
-3. In the new package, maintain the unique name **Teched 2022 IN260 - XX** with **XX** the participant number assigned to you
-4. Maintain a short description
-5. When done, click on *Save*
+4. In the new package, maintain the unique name **Teched 2022 IN260 - XX** with **XX** the participant number assigned to you
+5. Maintain a short description
+6. When done, click on *Save*
 
     <br>![Maintain package name](/exercises/ex1/images/01-0003.png)
 
