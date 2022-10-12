@@ -25,7 +25,7 @@ When you run through the exercise steps, you need to ensure that the technical I
 
 In the following, the complete list of exercise steps are listed. Run through them in the given order. You can use this section as an index or table of contents. Use the breadcrumb navigation on top of the pages to go back to the Table of Contents.
 
-- [Prerequisites - Create a Kafka topic](exercises/ex0/)
+- [Exercise 0 - Create a Kafka topic](exercises/ex0/)
 - [Exercise 1 - Welcome Email subscription](exercises/ex1/)
     - [Create a package](exercises/ex1/ex11)
     - [Copy integration flow](exercises/ex1/ex12)
