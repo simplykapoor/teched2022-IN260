@@ -37,4 +37,4 @@ Run through the following steps
 
 You should now be familiar with Success Factors configuration in Integration Center.
 
-Now, we show how to Publish to Kafka Integration Flow. Continue to - [intro](/intro/intro3)
+Now, we show how to Publish to Kafka Integration Flow. Continue to - [Publish to Kafka](/intro/intro3)
