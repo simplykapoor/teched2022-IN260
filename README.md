@@ -10,7 +10,7 @@ This session introduces attendees to...
 
 - [Scenario Introduction](intro/intro1)
 - [Event settings in SAP SuccessFactors (for your information only)](intro/intro2)
-- [Publish events to Kafka Integration Flow (for your information only)](intro/intro3)
+- [Integration Flow to publish events to Kafka (for your information only)](intro/intro3)
 
 ## Requirements
 
