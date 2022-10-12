@@ -1,4 +1,4 @@
-# Exercise 3.4 - Approve new hire in your inbox
+# Exercise 3.5 - Approve new hire in your inbox
 
 In the following, you will ...
 
