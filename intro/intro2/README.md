@@ -3,12 +3,12 @@
 
 These are the Success Factors configuration steps which are already completed. This section is for review only. 
 
-## Exercise steps
+## SFSF Configuration Steps 
 
 Run through the following steps
-1. Logon to the Kafka environment with the user and password provided to you
+1. Logon to the Success Factor with the SF Admin User ID
 
-    <br><img src="/exercises/ex0/images/00-0001.png" width=80% height=80%>
+    <br><img src="/intro/images/SFSF_Logon.png" width=80% height=80%>
 
 <!--
 2. Switch to the *Environments* page and select the *default* environment
