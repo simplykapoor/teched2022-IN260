@@ -6,7 +6,9 @@ Learn how to build an end-to-end event-driven integration scenario where you rea
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to new features that have been recently shipped for the Cloud Integration capability of SAP Integration Suite. In particular, we focus on the Kafka adapter to be able to implement pub/sub scenarios and new flow steps such as the idempotent process call that allows you to implement Exactly Once message delivery.
+
+Check out the following chapters to understand the overall integration scenario that is handled in this exercise:
 
 - [Scenario Introduction](intro/intro1)
 - [Event settings in SAP SuccessFactors (for your information only)](intro/intro2)
