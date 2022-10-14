@@ -6,13 +6,17 @@ In the second part of the exercise, you will create and model a new integration 
 
 Run through the exercise steps in the given order.
 
-[Create an integration flow stub](ex21)
+[Create a new integration flow](ex21)
 
-[Model the exactly once part](ex22)
+[Maintain the Kafka connection](ex22)
 
-[Deploy your integration flow](ex23)
+[Maintain the Content Modifier](ex23)
 
-[Check the deployment status](ex24)
+[Maintain the Message Mapping](ex24)
+
+[Model the exactly once connectivity to SPA](ex25)
+
+[Deploy your integration flow](ex26)
 
 
 ## Summary
