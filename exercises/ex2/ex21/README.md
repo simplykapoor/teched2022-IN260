@@ -47,4 +47,4 @@ Run through the following steps
 
 You should have created the integration flow stub.
 
-Next, we will maintain the conenction to your Kafka topic. Continue to - [Exercise 2.2](/exercises/ex2/ex22)
+Next, we will maintain the connection to your Kafka topic. Continue to - [Exercise 2.2](/exercises/ex2/ex22)
