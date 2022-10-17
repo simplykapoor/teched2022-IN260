@@ -1,13 +1,12 @@
 
-# Success Factors Configuration
+# SAP SuccessFactors Configuration
 
-These are the Success Factors configuration steps which are already completed. This section is for review only. 
+These are the SAP SuccessFactors configuration steps which are already completed. This section is for review only. 
 In this section, you get a view of the pre-configurations done so that an integration designed and deployed in SAP Integration Suite is triggered when there is a change in event(New Hire) in Employee Central. 
 
-## SFSF Configuration Steps 
+Run through the following steps:
 
-Run through the following steps
-1. Logon to the Success Factor with the SF Admin User ID
+1. Logon to the SAP SuccessFactors with the SFSF Admin User ID
     <br><img src="/intro/intro2/images/1. SFSF_Logon.PNG" width=70% height=70%>
 
 2. Enter "Integration Center" in the search field. This would bring us to IC.
@@ -43,6 +42,6 @@ On right side is the Metadata of the output
     
 ## Summary
 
-You should now be familiar with Success Factors configuration in Integration Center.
+You should now be familiar with all the configurations that has been done in SAP SuccessFactors to enable new hire events publication to Cloud Integration.
 
-Now, we show how to Publish to Kafka Integration Flow. Continue to - [Publish to Kafka](/intro/intro3)
+Now, we show pre-deployed integration flow to publish events to Confluent Kafka. Continue to - [Publish to Confluent Kafka](/intro/intro3)
