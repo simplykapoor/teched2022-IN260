@@ -25,9 +25,9 @@ You can check out this SAP Discovery Center mission that will help you in gettin
 
 For running through the exercises, we will provide access to the following systems:
 - SAP SuccessFactors system
-- [SAP Integration Suite tenant](https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com/)
-- [Confluent Kafka system](https://confluent.cloud/login/sso/sap-is-ias)
-- [SAP Process Automation Inbox](https://teched-2022-in260-tk4694cz.sap-process-automation.cfapps.us10.hana.ondemand.com/comsapspaprocessautomation.comsapspainbox/inbox.html)
+- SAP Integration Suite tenant
+- Confluent Kafka system
+- SAP Process Automation
 
 System details as well as user and password information will be provided to you by the instructors.
 
@@ -67,4 +67,4 @@ In the following, the complete list of exercise steps are listed. Run through th
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
 ## License
-Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.![image](https://user-images.githubusercontent.com/4324378/196164345-4eb9040c-99dd-46a7-b2d8-f8a55963efdb.png)
+Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt)
