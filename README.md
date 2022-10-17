@@ -16,9 +16,9 @@ Check out the following chapters to understand the overall integration scenario 
 
 ## Requirements
 
-There are no prior requirements to this exercise. You can perform this even if you do not have any experience with integration solutions. However, you will be able to derive a lot of value from this session if you have some knowledge on what SAP Integration Suite is all about and how it helps with enterprise-wide integration needs.
+There are no prior requirements to this exercise. You can perform this even if you do not have any experience with integration platform from SAP. However, you will be able to derive increased value from this session if you have some knowledge on what SAP Integration Suite is all about and how it helps with enterprise-wide integration needs.
 
-You may check out this mission that can help you getting started with SAP Integration Suite:
+You can check out this SAP Discovery Center mission that will help you in getting started with SAP Integration Suite:
 - [Get Started with Integration Suite - Cloud Integration](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3258/3327/)
 
 ## System logon & user information
