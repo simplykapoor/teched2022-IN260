@@ -6,13 +6,13 @@ Learn how to build an end-to-end event-driven integration scenario where you rea
 
 ## Overview
 
-This session introduces attendees to new features that have been recently shipped for the Cloud Integration capability of SAP Integration Suite. In particular, we focus on the Kafka adapter to be able to implement pub/sub scenarios and new flow steps such as the idempotent process call that allows you to implement Exactly Once message delivery.
+This session introduces attendees to new features that have been recently shipped in the Cloud Integration capability of SAP Integration Suite via an end-to-end integration scenario. In particular, we focus on the Kafka adapter to be able to implement pub/sub scenarios and new flow steps such as the idempotent process call that allows you to implement Exactly Once message delivery.
 
 Check out the following chapters to understand the overall integration scenario that is handled in this exercise:
 
 - [Scenario Introduction](intro/intro1)
-- [Event settings in SAP SuccessFactors (for your information only)](intro/intro2)
-- [Integration Flow to publish events to Kafka (for your information only)](intro/intro3)
+- [New hire event configuration in SAP SuccessFactors (for your information only)](intro/intro2)
+- [Pre-deployed Integration Flow to publish events to Confluent Kafka (for your information only)](intro/intro3)
 
 ## Requirements
 
@@ -23,10 +23,11 @@ You can check out this SAP Discovery Center mission that will help you in gettin
 
 ## System logon & user information
 
-For running through the exercise steps, we will provide access to the following systems:
-- SAP Integration Suite tenant
+For running through the exercises, we will provide access to the following systems:
 - SAP SuccessFactors system
-- Confluent Kafka
+- SAP Integration Suite tenant
+- Confluent Kafka system
+- SAP Process Automation tenant
 
 System details as well as user and password information will be provided to you by the instructors.
 
@@ -37,12 +38,12 @@ When you run through the exercise steps, you need to ensure that the technical I
 In the following, the complete list of exercise steps are listed. Run through them in the given order. You can use this section as an index or table of contents. Use the breadcrumb navigation on top of the pages to go back to the Table of Contents.
 
 - [Exercise 0 - Create a Kafka topic](exercises/ex0/)
-- [Exercise 1 - Maintain the Welcome Email subscription flow](exercises/ex1/)
+- [Exercise 1 - Copy, configure and deploy the Welcome Email subscription flow](exercises/ex1/)
     - [Create a package](exercises/ex1/ex11)
     - [Copy the template integration flow](exercises/ex1/ex12)
     - [Configure and deploy your integration flow](exercises/ex1/ex13)
     - [Check the deployment status](exercises/ex1/ex14)
-- [Exercise 2 - Create the SAP Process Automation subscription flow](exercises/ex2/)
+- [Exercise 2 - Create the SAP Process Automation(SPA) Approval workflow subscription flow](exercises/ex2/)
     - [Create a new integration flow](exercises/ex2/ex21)
     - [Maintain the Kafka connection](exercises/ex2/ex22)
     - [Maintain the Content Modifier](exercises/ex2/ex23)
@@ -66,4 +67,4 @@ In the following, the complete list of exercise steps are listed. Run through th
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
 ## License
-Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.![image](https://user-images.githubusercontent.com/4324378/196164345-4eb9040c-99dd-46a7-b2d8-f8a55963efdb.png)
