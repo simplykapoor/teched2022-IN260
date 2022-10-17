@@ -5,7 +5,7 @@ In the following, you will create a new integration package where you bundle you
 ## Exercise steps
 
 Run through the following steps
-1. Open the SAP Integration Suite landing page at **https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com** and logon with the user and password provided to you (see system and logon information provided to you)
+1. Open the SAP Integration Suite landing page at **https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com** and logon with the user **userXX** with **XX** the participant number assigned to you and the password provided to you
 
 2. Expand the Navigation pane and switch to the *Design --> Integrations* area
 
