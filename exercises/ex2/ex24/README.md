@@ -12,7 +12,7 @@ Run through the following steps
 
     <br><img src="/exercises/ex2/images/02-0028.png" width=100%>
 
-4. In the upcoming dialog, select source as *Integration Flow* and the package **Teched 2022 IN260 - SOL** from the drop down menu
+4. In the upcoming dialog, select the package **Teched 2022 IN260 - SOL** from the drop down menu
 
     <br><img src="/exercises/ex2/images/02-0030.png" width=50%>
 
