@@ -2,6 +2,7 @@
 # Success Factors Configuration
 
 These are the Success Factors configuration steps which are already completed. This section is for review only. 
+In this section, you get a view of the pre-configurations done so that an integration designed and deployed in SAP Integration Suite is triggered when there is a change in event(New Hire) in Employee Central. 
 
 ## SFSF Configuration Steps 
 
