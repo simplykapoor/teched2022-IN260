@@ -9,7 +9,7 @@ Run through the following steps.
 
     <br>![Script collection](/exercises/ex1/images/01-0010.png)
 
-2. In the upcoming dialog, maintain the Topic name **IN260_XX** whereas replacing **XX** with the participant number assigned to you
+2. In the upcoming dialog, maintain the Topic name **IN260_XX** whereas replacing **XX** with the participant number assigned to you, as was created in the [Exercise 0 - Create a Kafka topic](/exercises/ex0)
 3. Then select *Save*
 
     <br><img src="/exercises/ex1/images/01-0011.png" width=80%>
