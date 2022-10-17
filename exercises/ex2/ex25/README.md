@@ -1,6 +1,6 @@
 # Exercise 2.5 - Model the Exactly Once connectivity to SAP Process Automation
 
-In the following, you will ...
+In the following, we will configure the connection to SAP Process Automation in such a way that the workflow is triggered only once. This is achieved by placing the actual connection in a so called idempotent process. With an idempotent process call, you can check if a local integration process has been already processed for one and the same message. In case of a duplicate detected, the processing of this message can be skipped. This way, you can avoid duplicate messages sent to a receiver which is not idempotent, i.e., which is not able to identify duplicates.
 
 ## Exercise steps
 
