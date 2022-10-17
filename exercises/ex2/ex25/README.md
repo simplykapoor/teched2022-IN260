@@ -74,4 +74,4 @@ Run through the following steps
 
 You should have configured the exactly once delivery to SAP Process Automation.
 
-With this, the model is complete. You can save adn deploy the same. Continue to - [Exercise 2.6](/exercises/ex2/ex26)
+With this, the model is complete. You can save and deploy the same. Continue to - [Exercise 2.6](/exercises/ex2/ex26)
