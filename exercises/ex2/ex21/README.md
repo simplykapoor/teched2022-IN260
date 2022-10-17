@@ -9,7 +9,7 @@ Run through the following steps
 
     <br><img src="/exercises/ex2/images/02-0001.png" width=35% height=35%>
 
-2. In the Design area, select your integration package **Teched 2022 IN260 - XX** with **XX** the participant number assigned to you
+2. In the Design area, select your integration package **Teched 2022 IN260 - XX** that you had created earlier, with **XX** being the participant number assigned to you.
 
     <br><img src="/exercises/ex2/images/02-0002.png" width=60% height=60%>
 
