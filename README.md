@@ -25,13 +25,9 @@ You can check out this SAP Discovery Center mission that will help you in gettin
 
 For running through the exercises, we will provide access to the following systems:
 - SAP SuccessFactors system
-- SAP Integration Suite tenant at **https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com/**
-- Confluent Kafka system
-    - Login at **https://confluent.cloud/login/sso/sap-is-ias**
-    - Server host and port at **pkc-6ojv2.us-west4.gcp.confluent.cloud:9092**
-- SAP Process Automation tenant
-    - Inbox at **https://teched-2022-in260-tk4694cz.sap-process-automation.cfapps.us10.hana.ondemand.com/comsapspaprocessautomation.comsapspainbox/inbox.html**
-    - Workflow end point at **https://spa-api-gateway-bpi-us-prod.cfapps.us10.hana.ondemand.com/workflow/rest/v1/workflow-instances**
+- [SAP Integration Suite tenant](https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com/)
+- [Confluent Kafka system](https://confluent.cloud/login/sso/sap-is-ias)
+- [SAP Process Automation Inbox](https://teched-2022-in260-tk4694cz.sap-process-automation.cfapps.us10.hana.ondemand.com/comsapspaprocessautomation.comsapspainbox/inbox.html)
 
 System details as well as user and password information will be provided to you by the instructors.
 
