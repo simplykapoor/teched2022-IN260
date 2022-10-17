@@ -72,6 +72,6 @@ Run through the following steps
 
 ## Summary
 
-You should have configured the exactly once delivery to SAP Process Automation.
+You should have configured the exactly once delivery to SAP Build Process Automation.
 
 With this, the model is complete. You can save and deploy the same. Continue to - [Exercise 2.6](/exercises/ex2/ex26)
