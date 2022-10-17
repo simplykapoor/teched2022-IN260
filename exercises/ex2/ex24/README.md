@@ -36,17 +36,16 @@ Run through the following steps
 
     <br><img src="/exercises/ex2/images/02-0024a.png" width=40%>
 
-10. In the properties of the message mapping step, switch to the *Processing* tab
-11. Then, select the *Select* button
+10. In the properties of the message mapping step, switch to the *Processing* tab, then select the *Select* button
 
     <br><img src="/exercises/ex2/images/02-0033.png" width=40%>
 
-12. In the upcoming dialog, switch to the *Referenced Resources* tab
-13. From the list of Resources, select the beforehand added message mapping **Map SFSF JSON to SPA JSON - SOL**, then select *OK*
+11. In the upcoming dialog, switch to the *Referenced Resources* tab
+12. From the list of Resources, select the beforehand added message mapping **Map_SFSF_JSON_to_SPA_JSON_SOL**, then select *OK*
 
     <br><img src="/exercises/ex2/images/02-0034.png" width=40%>
 
-14. As you can see from the figure below, the mapping has been added 
+13. As you can see from the figure below, the mapping has been added 
 
     <br><img src="/exercises/ex2/images/02-0034a.png" width=40%>
 
