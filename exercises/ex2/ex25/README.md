@@ -5,7 +5,7 @@ In the following, we will configure the connection to SAP Build Process Automati
 ## Exercise steps
 
 Run through the following steps
-1. First, we will model the connection to SAP Process Automation within a subprocess. From the palette, select the entry *Local Integration Process* below the *Process* menu
+1. First, we will model the connection to SAP Build Process Automation within a subprocess. From the palette, select the entry *Local Integration Process* below the *Process* menu
 
     <br><img src="/exercises/ex2/images/02-0014.png" width=50%>
 
