@@ -1,6 +1,6 @@
 # Exercise 1 - Welcome Email
 
-In the first part of the exercise, you will setup an integration flow that subscribes to your Kafka topic in order to trigger a welcome email once the new hire has been created in SAP SuccessFactors.
+In the first part of the exercise, you will setup an integration flow that subscribes to your Kafka topic and in real-time triggers a welcome email once the new hire has been created in SAP SuccessFactors.
 
 ## Exercise steps
 
