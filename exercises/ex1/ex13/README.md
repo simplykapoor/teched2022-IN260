@@ -12,7 +12,7 @@ Run through the following steps.
 2. In the upcoming dialog, maintain the Topic name **IN260_XX** whereas replacing **XX** with the participant number assigned to you
 3. Then select *Save*
 
-    <br>![Script collection](/exercises/ex1/images/01-0011.png)
+    <br><img src="/exercises/ex1/images/01-0011.png" width=80%>
 
 4. Once saved, select *Deploy*
 
