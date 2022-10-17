@@ -20,7 +20,7 @@ Run through the following steps
 
 4. In the properties of the Kafka connection, switch to tab *Connection*
 5. In the *HOST DETAILS* section, select the *Add* button
-6. Maintain the host and port of the Confluent Kafka system provided to you by the instructors
+6. Maintain the host (including port) of the Confluent Kafka system as follows: **pkc-6ojv2.us-west4.gcp.confluent.cloud:9092**
 7. Finally, as Credential Name enter **Confluent_Kafka** (Note, the respective security artifact has been already deployed on the Cloud Integration tenant)
 
     <br><img src="/exercises/ex2/images/02-0012.png" width=100%>
