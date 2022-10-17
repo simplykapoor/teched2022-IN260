@@ -23,6 +23,6 @@ Run through the following steps
 
 ## Summary
 
-At the end of this exercise, you should have a running integration flow that subscribes to your Kafka topic, and sends a message to trigger the workflow in SAP Process Automation.
+At the end of this exercise, you should have a running integration flow that subscribes to your Kafka topic, and sends a message to trigger a process in SAP Build Process Automation.
 
 Next, we will run through the integration scenario by creating a new hire in SAP SuccessFactors. Continue to - [Exercise 3](/exercises/ex3)
