@@ -10,7 +10,7 @@ Run through the following steps
 
     <br><img src="/exercises/ex2/images/02-0022.png" width=50%>
 
-2. In the upcoming menu, select the *Content Modifier* entry. Cloud Integration capability also has the AI-powered assistance  to simplify your integration development, you will see that the *Content Modifier* listed as a recommended step for you.
+2. In the upcoming menu, select the *Content Modifier* entry. Cloud Integration capability provides the AI-powered assistance to simplify and accelerate integration development, you will see that the *Content Modifier* listed as a recommended step here.
 
     <br><img src="/exercises/ex2/images/02-0023.png" width=40%>
 
