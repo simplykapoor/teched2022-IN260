@@ -40,6 +40,6 @@ Instead of developing point-to-point integration for the above two use cases, yo
 
 ## Summary
 
-You should now be familiar with scenario.
+You should now be familiar with the scenario.
 
 Now, we show what all configurations has been done in SAP SuccessFactors to enable new hire events publication to Cloud Integration. Continue to - [SAP SuccessFactors Configuration](/intro/intro2)
