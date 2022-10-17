@@ -1,6 +1,6 @@
 # Exercise 4.1 - Replay the event in Kafka
 
-In the following, you will ...
+In the following exercise, you will replay this New Hire event using Kafka.
 
 ## Exercise steps
 
