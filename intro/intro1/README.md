@@ -35,7 +35,7 @@ Instead of developing point-to-point integration for the above two use cases, yo
     <br><br>
     
 4. On publishing an event with the same employee payload again,
-   <br> 4b. First subscriber sends the duplicate welcome email to the newly hired candidate's email id as exactly-once handling is not done in the integration flow.
+   <br> 4a. First subscriber sends the duplicate welcome email to the newly hired candidate's email id as exactly-once handling is not done in the integration flow.
    <br> 4b. Second subscriber does not trigger the equipment and training approval workflow in SAP Process Automation as exactly-once handling is done using the Idempotent process call in the integration flow.
 
 ## Summary
