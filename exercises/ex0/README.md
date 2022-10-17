@@ -5,7 +5,7 @@ As a prerequisite to run through the exercises, you need to create an own topic 
 ## Exercise steps
 
 Run through the following steps
-1. Logon to the Kafka environment with the user and password provided to you
+1. Logon to the Kafka environment **https://confluent.cloud/login/sso/sap-is-ias** with the user and password provided to you
 
     <br><img src="/exercises/ex0/images/00-0001.png" width=80% height=80%>
 
