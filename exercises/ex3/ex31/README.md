@@ -68,11 +68,9 @@ In Employment Details, set the First Date Worked
 
     <br><img src="/exercises/ex1/images/03-0001.png" width=50% height=50%>
 
-3. In ..., select button *Create*
-
 
 ## Summary
 
-You should have ...
+You should have been able to onboard a new employee successfully in SAP SuccessFactors
 
 Continue to - [Exercise 3.2](/exercises/ex3/ex32)
