@@ -1,6 +1,6 @@
 # Exercise 2.4 - Maintain the Message Mapping
 
-In the following, we need to map to the format that is required to trigger the workflow in SAP Process Automation. For your convenience, we have provided a reusable message mapping artifact which maps the JSON format of the SAP SuccessFactors event to the JSON format of the particular workflow. Furthermore, the message mapping fetches the employee ID of the incoming event and stores it in an exchange property which is at the end needed for the configuration of the exactly once delivery.
+In the following, we need to map to the format that is required to trigger the workflow in SAP Process Automation. For your convenience, we have provided a reusable message mapping artifact which maps the JSON format of the SAP SuccessFactors event to the JSON format of the particular workflow. Furthermore, the message mapping fetches the employee ID of the incoming event and stores it in an exchange property as well as in the *SAP_ApplicationID* header. Former is needed for the configuration of the exactly once delivery, latter is used for monitoring purposes, see [Use Custom Header Properties to Search for Message Processing Logs](https://help.sap.com/docs/CLOUD_INTEGRATION/368c481cd6954bdfa5d0435479fd4eaf/d4b5839670ce4866a770f7cadac063db.html).
 
 ## Exercise steps
 
