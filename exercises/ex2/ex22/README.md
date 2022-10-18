@@ -19,13 +19,13 @@ Run through the following steps
     <br><img src="/exercises/ex2/images/02-0011.png" width=50%>
 
 4. In the properties of the Kafka connection, switch to tab *Connection*
-5. In the *HOST DETAILS* section, select the *Add* button
-6. Maintain the host (including port) of the Confluent Kafka system as follows: **pkc-6ojv2.us-west4.gcp.confluent.cloud:9092**
-7. Finally, as Credential Name enter **Confluent_Kafka** (Note, the respective security artifact has been already deployed on the Cloud Integration tenant)
+    1. In the *HOST DETAILS* section, select the *Add* button
+    2. Maintain the host (including port) of the Confluent Kafka system as follows: **pkc-6ojv2.us-west4.gcp.confluent.cloud:9092**
+    3. Finally, as Credential Name enter **Confluent_Kafka** (Note, the respective security artifact has been already deployed on the Cloud Integration tenant)
 
     <br><img src="/exercises/ex2/images/02-0012.png" width=100%>
 
-8. Switch to the *Processing* tab, and enter your previously created Kafka topic **IN260_XX** with **XX** the participant number assigned to you
+5. Switch to the *Processing* tab, and enter your previously created Kafka topic **IN260_XX** with **XX** the participant number assigned to you
 
     <br><img src="/exercises/ex2/images/02-0013.png" width=50%>
 
