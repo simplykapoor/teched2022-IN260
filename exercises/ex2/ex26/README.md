@@ -9,7 +9,7 @@ Run through the following steps
 
     <br><img src="/exercises/ex2/images/02-0039.png" width=40% height=40%>
 
-2. Once saved, select button *Deploy* to trigger the deployment. Confirm the upcoming dialogs
+2. Once saved, select button *Deploy* to trigger the deployment. Confirm the upcoming dialogs (not shown in screenshots)
 
     <br><img src="/exercises/ex2/images/02-0040.png" width=40% height=40%>
 
