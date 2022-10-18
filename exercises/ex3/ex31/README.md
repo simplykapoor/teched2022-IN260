@@ -44,9 +44,12 @@ Preferred Language: English(US)
 Nationality: United States
 
 Email Information: 
-select Email Type: Business 
-enter Email Address: any email id that you can access to see the mail generated
-mark isPrimary: Yes 
+
+a. Select Email Type: Business 
+
+b. Enter Email Address: any email id that you can access to see the mail generated as part of employee onboarding in SAP SuccessFactors
+
+c. Mark isPrimary: Yes 
 
 <br>5. Select Continue. 
 
