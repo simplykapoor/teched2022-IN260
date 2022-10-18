@@ -37,9 +37,10 @@ Run through the following steps
 
     <br><img src="/exercises/ex2/images/02-0008.png" width=40%>
 
-9. To have enough space for modeling the integration flow steps, we will rearrange and resize the components. First, select the *Receiver* box and place it below the main process pool.
-10. Then, select the right edge of the *Integration Process* box and pull it further right to make the box wider
-11. Finally, drag and drop the *End Message* event further right so that the whole integration flow stub looks like in the picture below
+9. To have enough space for modeling the integration flow steps, we will rearrange and resize the components
+    1. First, select the *Receiver* box and place it below the main process pool
+    2. Then, select the right edge of the *Integration Process* box and pull it further right to make the box wider
+    3. Finally, drag and drop the *End Message* event further right so that the whole integration flow stub looks like in the picture below
 
     <br><img src="/exercises/ex2/images/02-0009.png" width=100%>
 
