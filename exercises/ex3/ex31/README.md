@@ -1,6 +1,9 @@
 # Exercise 3.1 - Add a new employee
 
-In the following, you will ...
+In this exercise, you will be adding a new employee in the SuccessFactors demo instance.
+Please do note that this instance has been provided only for the TechEd exercise. 
+A SAP partner can request for demo system via [link] (https://hxmcloudops.successfactors.com/home/index)
+Login details of the SAP SuccessFactors system will be provided in the Document available as part of the prebuilt integration package *Teched 2022 IN260 - SOL* in SAP Integration Suite.
 
 ## Exercise steps
 
