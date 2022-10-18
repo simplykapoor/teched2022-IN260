@@ -1,9 +1,9 @@
 # Exercise 2 - Process Automation
 
 In the second part of the exercise, you will create and model a new integration flow that subscribes to your Kafka topic and triggers a process where the manager can decide the equipment and training required for the new hire created in SAP SuccessFactors. 
-To achieve this we will be using SAP Build Process Automation, the AI-powered, intuitive, and no-code solution for workflow management and RPA availble on the SAP Business Technology Platform. 
+To achieve this, we will be using SAP Build Process Automation, the AI-powered, intuitive, and no-code solution for workflow management and RPA availble on the SAP Business Technology Platform. 
 
-In this exercise, you will design the integration flow as an exactly once scenario to ensure that the duplicate messages are avoided.
+In this exercise, you will design the integration flow as an exactly once scenario to ensure that duplicate messages are avoided.
 
 ## Exercise steps
 
