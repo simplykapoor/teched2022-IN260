@@ -10,11 +10,11 @@ Run through the following steps
 
     <br><img src="/exercises/ex0/images/00-0001.png" width=80% height=80%>
 
-2. In some cases, you may get the following questionaire screen. If not, proceed to exercise **step 4**. Otherwise, select link *Skip* from the upper right of the screen
+2. In some cases, you may get the following questionaire screen. If not, proceed to exercise step **4**. Otherwise, select link *Skip* from the upper right of the screen
 
     <br><img src="/exercises/ex0/images/00-0001a.png" width=80% height=80%>
 
-3. On the next screen, select the *Leave tutorial* link
+3. On the next screen, either collapse the getting started section or select the *Leave tutorial* link to get the getting started section closed
 
     <br><img src="/exercises/ex0/images/00-0001b.png" width=80% height=80%>
 
