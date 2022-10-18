@@ -29,7 +29,7 @@ Run through the following steps
 
     <br><img src="/exercises/ex2/images/02-0019.png" width=35%>
 
-7. A dialog comes up where you need to select the adapter type. In our case, select the entry *HTTP*
+7. If you release the connection, a dialog comes up where you need to select the adapter type. In our case, select the entry *HTTP*
 
     <br><img src="/exercises/ex2/images/02-0020.png" width=30%>
 
