@@ -29,7 +29,7 @@ For running through the exercises, we will provide access to the following syste
 - Confluent Kafka system
 - SAP Process Automation
 
-System details as well as user and password information will be provided to you by the instructors.
+User and password information will be provided to you by the instructors.
 
 When you run through the exercise steps, you need to ensure that the technical IDs of the integration artifacts that you will create are unique. Hence, add a participant number to your integration artifacts. The participant number will be assigned to you by the instructors.
 
