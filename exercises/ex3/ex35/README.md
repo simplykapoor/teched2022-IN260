@@ -20,4 +20,7 @@ You will find a task waiting for your action.
 
 ## Summary
 
+The hiring manager approves the equipment and training identified as relevant to the new hire. 
+The employee should have received an email approval from the manager
+
 Next we will replay the test to prove the exactly once delivery. Continue to - [Exercise 4](/exercises/ex4/)
