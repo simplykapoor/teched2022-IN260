@@ -62,12 +62,14 @@ In Organizational Information, select *No data* as Cost Center from the drop dow
 
 In Employment Details, set the First Date Worked
 
+<br><img src="/exercises/ex3/images/img4.jpg" width=50% height=50%>
+<br><img src="/exercises/ex3/images/img5.jpg" width=50% height=50%>
+
 <br>7. Select Continue
 
 <br>8. Select Submit
 
-
-    
+   
 
 
 ## Summary
