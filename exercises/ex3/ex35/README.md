@@ -7,6 +7,8 @@ As part of this scenario, we capture the next steps that needs to be triggered a
 
 Run through the following steps:
 1. Open [SAP Build Process Automation Inbox](https://teched-2022-in260-tk4694cz.sap-process-automation.cfapps.us10.hana.ondemand.com/comsapspaprocessautomation.comsapspainbox/inbox.html). The login id and password will be provided by the hands-on session moderators.
+
+You will find a task waiting for your action.
     <br><img src="/exercises/ex3/images/img314.jpg" width=50% height=50%>
     
 2. The manager can select the equipment and training that are suited for this employee and apporve them. 
