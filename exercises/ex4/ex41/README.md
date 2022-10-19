@@ -9,11 +9,17 @@ While you have so far observed the scenario execution end-to-end, there may be c
 Run through the following steps
 1. Login to [Confluent Kafka](https://confluent.cloud/login/sso/sap-is-ias)
 
-2. Switch ...
+2. Access the topic you had created earlier - IN260_XX with XX the participant number assigned to you
+
+3. Open *Messages* in the topic
+
+4. Select the option to *Produce a new message to this topic.*
 
     <br><img src="/exercises/ex4/images/04-0001.png" width=50% height=50%>
+    
+5. In ..., select button *Create*
 
-3. In ..., select button *Create*
+6. 
 
 
 ## Summary
