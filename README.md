@@ -27,7 +27,7 @@ For running through the exercises, we will provide access to the following syste
 - SAP SuccessFactors system
 - SAP Integration Suite tenant
 - Confluent Kafka system
-- SAP Process Automation
+- SAP Build Process Automation
 
 User and password information will be provided to you by the instructors.
 
@@ -43,7 +43,7 @@ In the following, the complete list of exercise steps are listed. Run through th
     - [Copy the template integration flow](exercises/ex1/ex12)
     - [Configure and deploy your integration flow](exercises/ex1/ex13)
     - [Check the deployment status](exercises/ex1/ex14)
-- [Exercise 2 - Create the SAP Process Automation (SPA) Approval subscription flow](exercises/ex2/)
+- [Exercise 2 - Create the SAP Build Process Automation (SPA) Approval subscription flow](exercises/ex2/)
     - [Create a new integration flow](exercises/ex2/ex21)
     - [Maintain the Kafka connection](exercises/ex2/ex22)
     - [Maintain the Content Modifier](exercises/ex2/ex23)
