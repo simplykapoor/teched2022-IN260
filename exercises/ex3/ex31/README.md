@@ -12,6 +12,7 @@ Run through the following steps
 1. Search for ADD NEW EMPLOYEE and select *Add New Employee* action listed
    <br><img src="/exercises/ex3/images/img1.jpg" width=50% height=50%>
 
+
 2. In *Identity* section, enter details as given below:
 
 * Hire Date: Change it to any date of preference.
@@ -31,9 +32,11 @@ Run through the following steps
 * User Name: same as Person Id.
    <br><img src="/exercises/ex3/images/img2.jpg" width=50% height=50%>
 
+
 3. Select Continue. 
 
-Note: A duplicate check dialog box may appear. Click on ignore matches.
+   Note: A duplicate check dialog box may appear. Click on ignore matches.
+
 
 4. In *Personal Information* section, enter details as given below:
 
@@ -53,7 +56,9 @@ Note: A duplicate check dialog box may appear. Click on ignore matches.
    
    <br><img src="/exercises/ex3/images/img3.jpg" width=50% height=50%>
 
+
 5. Select Continue. 
+
 
 6. In *Job Information* section, enter details as given below:
 
@@ -63,16 +68,18 @@ Note: A duplicate check dialog box may appear. Click on ignore matches.
 
    <br><img src="/exercises/ex3/images/img4.jpg" width=50% height=50%>
 
+
 7. In Employment Details, set the First Date Worked
 
    <br><img src="/exercises/ex3/images/img5.jpg" width=50% height=50%>
 
+
 8. Select Continue
+
 
 9. As a final step to creating a new employee, select Submit
 
    
-
 
 ## Summary
 
