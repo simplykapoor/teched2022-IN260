@@ -1,17 +1,15 @@
 # Exercise 4.3 - Check your Email inbox
 
-In the following, you will ...
+In the following, you will recheck you email inbox as employee.
 
 ## Exercise steps
 
 Run through the following steps
-1. Open ...
+1. Open the email inbox that you have provided as new employee's Email ID in SAP SuccessFactors. A welcome email to the newly hired candidate's email id along with the qualtrics survey link should have been received once again.
 
-2. Switch ...
+2. You should have received a mail from saprover123@gmail.com with Qualtrics link
 
-    <br><img src="/exercises/ex4/images/04-0001.png" width=50% height=50%>
-
-3. In ..., select button *Create*
+    <br><img src="/exercises/ex3/images/img313.jpg" width=30% height=30%>
 
 
 ## Summary
