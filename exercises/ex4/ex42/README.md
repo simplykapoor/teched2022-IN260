@@ -15,7 +15,7 @@ Run through the following steps
 3. In this view, you can filter integrations that are deployed by you by using the ID field. 
 
 Here, to filter through the multiple messages that could have been processed in the last one hour, you can use the topic name created in Confluent Kafka (IN260_XX, where XX is the participant number assigned to you). 
-    <br><img src="/exercises/ex3/images/img312.jpg" width=50% height=50%>
+    <br><img src="/exercises/ex3/images/img319.jpg" width=50% height=50%>
     
 Note: If the status is not reflecting as completed across the two integration flows that have been executed again after this replay of New Hire event, please contact one of the hands-on session moderator.
 
