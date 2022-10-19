@@ -10,7 +10,7 @@ Run through the following steps
 2. This time around, the Hire Event has been replayed and as a manager you will not be expected to repeat the steps of assigning equipment or training to your new hire. You should find no task waiting for your action.
     <br><img src="/exercises/ex3/images/img323.jpg" width=50% height=50%>
     
-This is due to the use of *Idempotent Process Call* in the integration flow desinged in [Exercise 2.5 - Model the Exactly Once connectivity to SAP Build Process Automation](/exercises/ex2/ex25)
+This is due to the use of *Idempotent Process Call* in the integration flow designed in [Exercise 2.5 - Model the Exactly Once connectivity to SAP Build Process Automation](/exercises/ex2/ex25)
 
 
 ## Summary
