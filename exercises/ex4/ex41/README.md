@@ -15,15 +15,17 @@ Run through the following steps
 
 4. Select the option to *Produce a new message to this topic.*
 
-    <br><img src="/exercises/ex4/images/04-0001.png" width=50% height=50%>
+    <br><img src="/exercises/ex3/images/img318.jpg" width=50% height=50%>
     
-5. In ..., select button *Create*
+5. In the text space provided, replace the value on the screen with the message payload previously copied into your notepad or downloaded from monitoring view in [Exercise 3.3](/exercises/ex3/ex33)
 
-6. 
+    <br><img src="/exercises/ex3/images/img319.jpg" width=50% height=50%>
+
+6. Click *Produce*. 
 
 
 ## Summary
 
-You should have ...
+You should have replayed the hire event with this exercise
 
 Continue to - [Exercise 4.2](/exercises/ex4/ex42)
