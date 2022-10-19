@@ -10,7 +10,7 @@ Login details to this SAP SuccessFactors instance will be shared during the hand
 
 Run through the following steps
 1. Search for ADD NEW EMPLOYEE and select *Add New Employee* action listed
-<br><img src="/exercises/ex3/images/img1.jpg" width=50% height=50%>
+   <br><img src="/exercises/ex3/images/img1.jpg" width=50% height=50%>
 
 2. In *Identity* section, enter details as given below:
 
@@ -29,7 +29,7 @@ Run through the following steps
 * Person Id: Enter the same as the topic name created in Confluent Kafka (IN260_XX, where XX is the participant number assigned to you)
 
 * User Name: same as Person Id.
-<br><img src="/exercises/ex3/images/img2.jpg" width=50% height=50%>
+   <br><img src="/exercises/ex3/images/img2.jpg" width=50% height=50%>
 
 3. Select Continue. 
 
@@ -51,7 +51,7 @@ Note: A duplicate check dialog box may appear. Click on ignore matches.
 
    c. isPrimary: Select *Yes*
    
-<br><img src="/exercises/ex3/images/img3.jpg" width=50% height=50%>
+   <br><img src="/exercises/ex3/images/img3.jpg" width=50% height=50%>
 
 5. Select Continue. 
 
@@ -61,15 +61,15 @@ Note: A duplicate check dialog box may appear. Click on ignore matches.
 
 * In Organizational Information, select *No data* as Cost Center from the drop down
 
-<br><img src="/exercises/ex3/images/img4.jpg" width=50% height=50%>
+   <br><img src="/exercises/ex3/images/img4.jpg" width=50% height=50%>
 
 7. In Employment Details, set the First Date Worked
 
-<br><img src="/exercises/ex3/images/img5.jpg" width=50% height=50%>
+   <br><img src="/exercises/ex3/images/img5.jpg" width=50% height=50%>
 
-Select Continue
+8. Select Continue
 
-8. As a final step to creating a new employee, select Submit
+9. As a final step to creating a new employee, select Submit
 
    
 
