@@ -24,10 +24,10 @@ You can check out this SAP Discovery Center mission that will help you in gettin
 ## System logon & user information
 
 For running through the exercises, we will provide access to the following systems:
-- SAP SuccessFactors system
-- SAP Integration Suite tenant
-- Confluent Kafka system
-- SAP Build Process Automation
+- [SAP SuccessFactors system](https://salesdemo4.successfactors.com/login?company=SFPART038010)
+- [SAP Integration Suite tenant](https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com/)
+- [Confluent Kafka system](https://confluent.cloud/login/sso/sap-is-ias)
+- [SAP Build Process Automation - Task Center](https://teched-2022-in260-tk4694cz.sap-process-automation.cfapps.us10.hana.ondemand.com/comsapspaprocessautomation.comsapspainbox/inbox.html)
 
 User and password information will be provided to you by the instructors.
 
