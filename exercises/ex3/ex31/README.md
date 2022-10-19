@@ -29,7 +29,7 @@ Run through the following steps
 
 4. In *Personal Information* section, enter details as given below:
    1. Gender: select either **Male** or **Female**
-   2. Preferred Language: Select any, e.g.: **English(US)**
+   2. Preferred Language: Select any, e.g.: **English (US)**
    3. Nationality: Select any, e.g.: **United States**
    4. Email Information: 
       1. Email Type: Select **Business**
