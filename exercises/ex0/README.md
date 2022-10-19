@@ -1,7 +1,7 @@
 # Create Kafka topic
 
 As a prerequisite to run through the exercises, you need to create an own topic in Kafka. 
-A topic is a log of events. For this hands-on you will be publishing SuccessFactors New Hire event to Kafka topics and real-time integrations will be triggered to inform as well as guide the newly onboarded employee and the hiring manager on next steps.
+A topic is a log of events. For this hands-on you will be publishing SAP SuccessFactors New Hire event to Kafka topics and real-time integrations will be triggered to inform as well as guide the newly onboarded employee and the hiring manager on next steps.
 
 ## Exercise steps
 
