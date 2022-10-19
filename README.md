@@ -55,12 +55,12 @@ In the following, the complete list of exercise steps are listed. Run through th
     - [Check the Kafka monitoring](exercises/ex3/ex32)
     - [Check the Cloud Integration monitoring](exercises/ex3/ex33)
     - [Check your Email inbox](exercises/ex3/ex34)
-    - [Approve the new hire in SAP Process Automation](exercises/ex3/ex35)
+    - [Approve the new hire in SAP Build Process Automation](exercises/ex3/ex35)
 - [Exercise 4 - Rerun the scenario with same event](exercises/ex4/)
     - [Replay the event in Kafka](exercises/ex4/ex41)
     - [Check the Cloud Integration monitoring](exercises/ex4/ex42)
     - [Check your Email inbox](exercises/ex4/ex43)
-    - [Check the SAP Process Automation inbox](exercises/ex4/ex44)
+    - [Check the SAP Build Process Automation](exercises/ex4/ex44)
     
 ## How to obtain support
 
