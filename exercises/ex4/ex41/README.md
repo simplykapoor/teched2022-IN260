@@ -9,17 +9,17 @@ While you have so far observed the scenario execution end-to-end, there may be c
 Run through the following steps
 1. Login to [Confluent Kafka](https://confluent.cloud/login/sso/sap-is-ias)
 
-2. Access the topic you had created earlier - IN260_XX with XX the participant number assigned to you
+2. Access the topic you had created earlier - **IN260_XX** with **XX** the participant number assigned to you
 
 3. Open *Messages* in the topic
 
-4. Select the option to *Produce a new message to this topic.*
+4. Select the option to *Produce a new message to this topic*
 
-    <br><img src="/exercises/ex3/images/img318.jpg" width=50% height=50%>
+    <br><img src="/exercises/ex3/images/img318.jpg" width=70%>
     
 5. In the text space provided, replace the value on the screen with the message payload previously copied into your notepad or downloaded from monitoring view in [Exercise 3.3](/exercises/ex3/ex33)
 
-    <br><img src="/exercises/ex3/images/img319.jpg" width=50% height=50%>
+    <br><img src="/exercises/ex3/images/img319.jpg" width=70%>
 
 6. Click *Produce*. 
 
