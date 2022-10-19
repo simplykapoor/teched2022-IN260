@@ -14,8 +14,6 @@ Run through the following steps
     <br><img src="/exercises/ex3/images/img311.jpg" width=60%>
 
 3. In this view, you can filter integrations that are deployed by you by using the ID field. Here, to filter through the multiple messages that could have been processed in the last one hour, you can use the employee ID of the new hire, i.e., **IN260_XX** where **XX** is the participant number assigned to you
-
-    <br><img src="/exercises/ex3/images/img319.jpg" width=50% height=50%>
     
     **Note**: Both the integration flows which subscribe to the event topic in Kafka should have been retriggered with this replay of New Hire event. If the status is not reflecting as completed, please contact one of the hands-on session moderator.
 
