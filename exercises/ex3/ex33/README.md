@@ -5,32 +5,30 @@ In the following exercise, you will be able to monitor integrations.
 ## Exercise steps
 
 Run through the following steps
-1. Select the *Monitor -> Integrations* from the left navigation pane. (Hint: By clicking on the burger icon on the top left corner, you can expand the navigation pane.)
-    <br><img src="/exercises/ex3/images/img310.jpg" width=30% height=30%>
+1. Open the SAP Integration Suite landing page, and select *Monitor -> Integrations* from the left navigation pane. (**Hint**: By clicking on the burger icon on the top left corner, you can expand the navigation pane.)
 
-2. You can see the multiple tiles that provides rich variety of monitoring options. For this exercise we will monitor messages that have been processed. Click on the tile to look at *All Integration Flows*.
+    <br><img src="/exercises/ex3/images/img310.jpg" width=25%>
 
-    <br><img src="/exercises/ex3/images/img311.jpg" width=50% height=50%>
+2. You can see the multiple tiles providing a rich variety of monitoring options. For this exercise we will monitor messages that have been processed. Click on the tile to look at *All Integration Flows*
 
-3. In this view, you can filter integrations that are deployed by you by using the ID field. 
+    <br><img src="/exercises/ex3/images/img311.jpg" width=80%>
 
-Here, to filter through the multiple messages that could have been processed in the last one hour, you can use the topic name created in Confluent Kafka (IN260_XX, where XX is the participant number assigned to you). (Additional information: This is possible due to the message mapping step explained in [Excercise 2.4](/exercises/ex2/ex24) where an SAP_ApplicationID header is set)
-    <br><img src="/exercises/ex3/images/img312.jpg" width=50% height=50%>
+3. In this view, you can filter integrations that are deployed by you by using the ID field. Here, to filter through the multiple messages that could have been processed in the last one hour, you can use the employee ID of the new hire, i.e., **IN260_XX**, where **XX** is the participant number assigned to you. (**Additional information**: This is possible due to the message mapping step explained in [Excercise 2.4](/exercises/ex2/ex24) where an *SAP_ApplicationID* header is set)
+
+    <br><img src="/exercises/ex3/images/img312.jpg" width=80%>
     
-Note: If the status is not reflecting as completed across the three integration flows, please contact one of the hands-on session moderator.
+    **Note**: If the status is not reflecting as completed across the three integration flows, please contact one of the hands-on session moderators
 
-4. Select the *Publish SAP SFSF New Hire Event to Confluent Kafka - SOL* Integration Flow 
-
-5. Navigate to *Attachments* section. 
-
-    <br><img src="/exercises/ex3/images/img316.jpg" width=50% height=50%>
+4. Let's copy the payload of the event. Note, this step is necessary for *Exercise 4* where we replay the event to check the exactly once scenario execution
+    1. Select the *Publish SAP SFSF New Hire Event to Confluent Kafka - SOL* integration flow
+    2. Navigate to the *Attachments* section
+    3. Click to view the *Payload*
+    
+    <br><img src="/exercises/ex3/images/img316.jpg" width=60%>
  
-6. Click to view the *Payload*
+5. Either copy this payload into a notepad (**Hint**: Ctrl-A to select the full text works in this text view) or download the payload (.txt file)
 
-7. Either copy this payload into a notepad (Hint: CtrlA to select the full text works in this text view) or download the payload (.txt file). This step is necessary for the Exercise 4 - *Replay the Hire Event to check exactly once scenario execution*.
-
-    <br><img src="/exercises/ex3/images/img317.jpg" width=50% height=50%>
-    
+    <br><img src="/exercises/ex3/images/img317.jpg" width=80%>
 
 ## Summary
 
