@@ -6,7 +6,7 @@ In the following exercise, you will be able to monitor integrations.
 
 Run through the following steps
 1. Select the Monitor view for Integrations from the left navigation pane. (Hint: By clicking on the burger icon on the top left corner, you can expand the navigation pane.)
-    <br><img src="/exercises/ex3/images/img310.jpg" width=50% height=50%>
+    <br><img src="/exercises/ex3/images/img310.jpg" width=30% height=30%>
 
 2. You can see the multiple tiles that provides rich variety of monitoring options. For this exercise we will monitor messages that have been processed. Click on the tile to look at all the integration flows.
 
