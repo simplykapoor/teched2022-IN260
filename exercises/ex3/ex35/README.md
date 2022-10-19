@@ -1,4 +1,4 @@
-# Exercise 3.5 - Approve new hire in your inbox
+# Exercise 3.5 - Approve new hire in your Task Center (one inbox)
 
 In the following, you will be acting as the hiring manager. 
 As part of this scenario, we capture the next steps that needs to be triggered as part of the employee onboarding experience. The hiring manager will need to select equipment and trainings applicable for the newly hired employee and to make this whole process easy for manager, we make use of SAP Build Process Automation to help human intervention required as part of the overall end-to-end process.
@@ -6,7 +6,7 @@ As part of this scenario, we capture the next steps that needs to be triggered a
 ## Exercise steps
 
 Run through the following steps:
-1. Open [SAP Build Process Automation Inbox](https://teched-2022-in260-tk4694cz.sap-process-automation.cfapps.us10.hana.ondemand.com/comsapspaprocessautomation.comsapspainbox/inbox.html). The login id and password will be provided by the hands-on session moderators.
+1. Open [SAP Build Process Automation - Task Center](https://teched-2022-in260-tk4694cz.sap-process-automation.cfapps.us10.hana.ondemand.com/comsapspaprocessautomation.comsapspainbox/inbox.html). The login id and password will be provided by the hands-on session moderators.
 
 You will find a task waiting for your action.
     <br><img src="/exercises/ex3/images/img314.jpg" width=50% height=50%>
