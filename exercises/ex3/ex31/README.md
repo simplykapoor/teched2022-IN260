@@ -29,6 +29,7 @@ Country of Birth : Enter any country. Eg: United States
 Person Id: Enter the same as the topic name created in Confluent Kafka (IN260_XX, where XX is the participant number assigned to you)
 
 User Name: same as Person Id.
+<br><img src="/exercises/ex3/images/img2.jpg" width=50% height=50%>
 
 <br>3. Select Continue. 
 
@@ -38,17 +39,18 @@ Note: A duplicate check dialog box may appear. Click on ignore matches.
 
 Gender: select either male or female
 
-Preferred Language: English(US)
+Preferred Language: Select any, eg: English(US)
 
-Nationality: United States
+Nationality: Select any, eg: United States
 
 Email Information: 
 
-a. Select Email Type: Business 
+a. Email Type: Select *Business*
 
-b. Enter Email Address: any email id that you can access to see the mail generated as part of employee onboarding in SAP SuccessFactors
+b. Email Address: Enter any email id that you can access to see the mail generated as part of employee onboarding in SAP SuccessFactors
 
-c. Mark isPrimary: Yes 
+c. isPrimary: Select *Yes*
+<br><img src="/exercises/ex3/images/img3.jpg" width=50% height=50%>
 
 <br>5. Select Continue. 
 
