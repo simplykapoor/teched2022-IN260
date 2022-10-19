@@ -1,6 +1,6 @@
 # Exercise 4.4 - Check the Process Automation inbox
 
-In the following, you will recheck you Task Center (one inbox) as the hiring manager.
+In the following, you will recheck your Task Center (one inbox) as the hiring manager.
 
 ## Exercise steps
 
