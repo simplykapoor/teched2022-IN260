@@ -16,6 +16,10 @@ Hope all the three of your integration flows have message processed successfully
 
     <br><img src="/exercises/ex3/images/img313.jpg" width=30% height=30%>
 
+3. The mail also has a link to Qualtrics. Click on this link and observe that the *onboarding experience survey* has been contextualized to you as a specific individual who has newly been hired in the organization, with team specific and manager specific questions getting reflected.
+
+    <br><img src="/exercises/ex3/images/img321.jpg" width=30% height=30%>
+    <br><img src="/exercises/ex3/images/img322.jpg" width=30% height=30%>
 
 ## Summary
 
