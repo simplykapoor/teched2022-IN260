@@ -25,7 +25,7 @@ Run through the following steps
 
    <br><img src="/exercises/ex3/images/img2.jpg" width=100%>
 
-3. Select Continue. **Note**: A duplicate check dialog box may appear. Click on ignore matches.
+3. Select Continue. **Note**: A duplicate check dialog box may appear. Click on *ignore matches*
 
 4. In *Personal Information* section, enter details as given below:
    1. Gender: select either **Male** or **Female**
@@ -46,13 +46,13 @@ Run through the following steps
 
    <br><img src="/exercises/ex3/images/img4.jpg" width=100%>
 
-7. In Employment Details, set the First Date Worked as any date in the future
+7. In Employment Details, set the First Date Worked choosing any date in the future
 
    <br><img src="/exercises/ex3/images/img5.jpg" width=100%>
 
-Select Continue
+8. Select Continue
 
-8. As a final step to create a new employee, select *Submit*
+9. As a final step to create a new employee, select *Submit*
 
 ## Summary
 
