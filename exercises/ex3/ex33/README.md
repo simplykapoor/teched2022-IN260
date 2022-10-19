@@ -15,7 +15,7 @@ Run through the following steps
 3. In this view, you can filter integrations that are deployed by you by using the ID field. 
 
 Here, to filter through the multiple messages that could have been processed in the last one hour, you can use the topic name created in Confluent Kafka (IN260_XX, where XX is the participant number assigned to you). (Additional information: This is possible due to the message mapping step explained in [Excercise 2.4](/exercises/ex2/ex24) where an SAP_ApplicationID header is set)
-    <br><img src="/exercises/ex1/images/img11.jpg" width=50% height=50%>
+    <br><img src="/exercises/ex1/images/img12.jpg" width=50% height=50%>
     
 Note: If the status is not reflecting as completed across the three integration flows, please contact one of the hands-on session moderator.
 
