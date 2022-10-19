@@ -24,6 +24,6 @@ Hope all the three of your integration flows have message processed successfully
 
 ## Summary
 
-You should have received a welcome email from HR manager. 
+You should have received a welcome email and request for feedback on the onboarding process from HR manager. 
 
 Continue to - [Exercise 3.5](/exercises/ex3/ex35)
