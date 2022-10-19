@@ -60,14 +60,14 @@ Select Position: any one from the drop-down
 
 In Organizational Information, select *No data* as Cost Center from the drop down
 
-In Employment Details, set the First Date Worked
-
 <br><img src="/exercises/ex3/images/img4.jpg" width=50% height=50%>
+
+<br>7. In Employment Details, set the First Date Worked
 <br><img src="/exercises/ex3/images/img5.jpg" width=50% height=50%>
 
-<br>7. Select Continue
+Select Continue
 
-<br>8. Select Submit
+<br>8. As a final step to creating a new employee, select Submit
 
    
 
