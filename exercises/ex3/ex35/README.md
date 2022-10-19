@@ -1,7 +1,8 @@
 # Exercise 3.5 - Approve new hire in your Task Center (one inbox)
 
 In the following, you will be acting as the hiring manager. 
-As part of this scenario, we capture the next steps that needs to be triggered as part of the employee onboarding experience. The hiring manager will need to select equipment and trainings applicable for the newly hired employee and to make this whole process easy for manager, we make use of SAP Build Process Automation to help human intervention required as part of the overall end-to-end process.
+
+In the scenario, the hiring manager will need to select equipment and trainings applicable for the newly hired employee. To make this whole process a smooth experience for manager, we make use of SAP Build Process Automation.
 
 ## Exercise steps
 
@@ -19,4 +20,4 @@ You will find a task waiting for your action.
 
 ## Summary
 
-Next we will replay the test to proove the exactly once delivery. Continue to - [Exercise 4](/exercises/ex4/)
+Next we will replay the test to prove the exactly once delivery. Continue to - [Exercise 4](/exercises/ex4/)
