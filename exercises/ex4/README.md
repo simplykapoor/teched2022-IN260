@@ -6,7 +6,7 @@ In the last part of the exercise, you will rerun the integration scenario with t
 
 Run through the exercise steps in the given order.
 
-[Replay the event in Kafka](ex41)
+[Produce message using Confluent Kafka](ex41)
 
 [Monitor in Cloud Integration](ex42)
 
