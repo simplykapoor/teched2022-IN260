@@ -14,6 +14,6 @@ Run through the following steps
 
 ## Summary
 
-You should have received a second welcome email from HR manager.
+You should have received a welcome email and request for feedback on the onboarding process from HR manager. 
 
 Continue to - [Exercise 4.4](/exercises/ex4/ex44)
