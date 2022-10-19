@@ -9,7 +9,8 @@ Login details of the SAP SuccessFactors system will be provided in the Document 
 ## Exercise steps
 
 Run through the following steps
-1. Search for ADD NEW EMPLOYEE and then select Add New Employee
+1. Search for ADD NEW EMPLOYEE and select *Add New Employee* action listed
+<br><img src="/exercises/ex3/images/img1.jpg" width=50% height=50%>
 
 <br>2. In *Identity* section, enter details as given below:
 
@@ -19,9 +20,7 @@ Company: Select anyone from the drop down list available. Eg: BestRun(10000)
 
 Event Reason: New Hire (HIRNEW)
 
-First Name: IN260
-
-Last Name: XX
+First Name and Last Name can be any information.
 
 Date of Birth: Select any date. Eg: Apr 04, 2000
 
@@ -66,7 +65,7 @@ In Employment Details, set the First Date Worked
 <br>8. Select Submit
 
 
-    <br><img src="/exercises/ex1/images/03-0001.png" width=50% height=50%>
+    
 
 
 ## Summary
