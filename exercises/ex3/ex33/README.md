@@ -19,6 +19,18 @@ Here, to filter through the multiple messages that could have been processed in 
     
 Note: If the status is not reflecting as completed across the three integration flows, please contact one of the hands-on session moderator.
 
+4. Select the *Publish SAP SFSF New Hire Event to Confluent Kafka - SOL* Integration Flow 
+
+5. Navigate to Attachments section. 
+
+    <br><img src="/exercises/ex3/images/img315.jpg" width=50% height=50%>
+ 
+6. Click to view the payload
+
+7. Either copy this payload into a notepad (Hint: CtrlA to select the full text works in this text view) or download the payload (.txt file). This step is necessary for the Exercise 4 - *Replay the Hire Event to check exactly once scenario execution*.
+
+    <br><img src="/exercises/ex3/images/img316.jpg" width=50% height=50%>
+
 ## Summary
 
 You should have now some familiarity with the standard monitoring that is availble as part of SAP Integration Suite. 
