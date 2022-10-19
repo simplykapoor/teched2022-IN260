@@ -14,21 +14,21 @@ Run through the following steps
 
 <br>2. In *Identity* section, enter details as given below:
 
-<br> Hire Date: Change it to any date of preference.
+<br> * Hire Date: Change it to any date of preference.
 
-Company: Select anyone from the drop down list available. Eg: BestRun(10000)
+* Company: Select anyone from the drop down list available. Eg: BestRun(10000)
 
-Event Reason: New Hire (HIRNEW)
+* Event Reason: New Hire (HIRNEW)
 
-First Name and Last Name can be any information.
+* First Name and Last Name can be any information.
 
-Date of Birth: Select any date. Eg: Apr 04, 2000
+* Date of Birth: Select any date. Eg: Apr 04, 2000
 
-Country of Birth : Enter any country. Eg: United States
+* Country of Birth : Enter any country. Eg: United States
 
-Person Id: Enter the same as the topic name created in Confluent Kafka (IN260_XX, where XX is the participant number assigned to you)
+* Person Id: Enter the same as the topic name created in Confluent Kafka (IN260_XX, where XX is the participant number assigned to you)
 
-User Name: same as Person Id.
+* User Name: same as Person Id.
 <br><img src="/exercises/ex3/images/img2.jpg" width=50% height=50%>
 
 <br>3. Select Continue. 
@@ -37,13 +37,13 @@ Note: A duplicate check dialog box may appear. Click on ignore matches.
 
 <br>4. In *Personal Information* section, enter details as given below:
 
-Gender: select either male or female
+* Gender: select either male or female
 
-Preferred Language: Select any, eg: English(US)
+* Preferred Language: Select any, eg: English(US)
 
-Nationality: Select any, eg: United States
+* Nationality: Select any, eg: United States
 
-Email Information: 
+* Email Information: 
 
 a. Email Type: Select *Business*
 
@@ -56,9 +56,9 @@ c. isPrimary: Select *Yes*
 
 <br>6. In *Job Information* section, enter details as given below:
 
-Select Position: any one from the drop-down
+* Select Position: any one from the drop-down
 
-In Organizational Information, select *No data* as Cost Center from the drop down
+* In Organizational Information, select *No data* as Cost Center from the drop down
 
 <br><img src="/exercises/ex3/images/img4.jpg" width=50% height=50%>
 
