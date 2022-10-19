@@ -46,7 +46,7 @@ Run through the following steps
 
    <br><img src="/exercises/ex3/images/img4.jpg" width=100%>
 
-7. In Employment Details, set the First Date Worked choosing any date in the future
+7. Scroll down. In Employment Details, set the First Date Worked choosing any date in the future
 
    <br><img src="/exercises/ex3/images/img5.jpg" width=100%>
 
