@@ -14,6 +14,4 @@ Run through the following steps
 
 ## Summary
 
-You should have ...
-
 Continue to - [Exercise 4.4](/exercises/ex4/ex44)
