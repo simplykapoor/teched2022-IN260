@@ -15,7 +15,7 @@ Run through the following steps
 
 2. In the *Identity* section, enter details as given below:
    1. Hire Date: Change it to any date of preference
-   2. Company: Select anyone from the drop down list available, e.g.: **BestRun(10000)**
+   2. Company: Select anyone from the drop down list available, e.g.: **BestRun (10000)**
    3. Event Reason: **New Hire (HIRNEW)**
    4. First Name and Last Name can be any information
    5. Date of Birth: Select any date, e.g.: Oct 18, 2000
