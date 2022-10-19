@@ -6,7 +6,7 @@ In the third part of the exercise, you will test the integration scenario by cre
 
 Run through the exercise steps in the given order.
 
-[Create a new employee](ex31)
+[Add a new employee](ex31)
 
 [Monitor in Kafka](ex32)
 
