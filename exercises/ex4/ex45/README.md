@@ -40,4 +40,6 @@ Run through the following steps
 
 ## Summary
 
+You should have replayed the message event and confirmed the exactly once handling with the help of the trace.
+
 Navigate back to - [Exercise overview page](/README.md)
