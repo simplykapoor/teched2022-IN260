@@ -14,6 +14,8 @@ Run through the exercise steps in the given order.
 
 [Check the SAP Process Automation inbox](ex44)
 
+[[Optional] Replay again with trace switched on](ex45)
+
 ## Summary
 
 Congratulations, this concludes the overall exercise. Navigate back to - [Exercise overview page](/README.md)
