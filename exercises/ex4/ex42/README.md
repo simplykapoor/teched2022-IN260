@@ -5,16 +5,14 @@ In the following, you will be redoing the steps that you are already familiarize
 ## Exercise steps
 
 Run through the following steps
-1. Select the *Monitor -> Integrations* from the left navigation pane
+1. Select the *Monitor -> Integrations* from the left navigation pane, and click on the tile to look at *All Integration Flows*
 
-    <br><img src="/exercises/ex3/images/img310.jpg" width=25%>
+    <br><img src="/exercises/ex4/images/img402.png" width=60%>
 
-2. You can see the multiple tiles that provides rich variety of monitoring options. For this exercise we will monitor messages that have been processed. Click on the tile to look at *All Integration Flows*
+2. Filter through the multiple messages that could have been processed in the last one hour, you can use the employee ID of the new hire, i.e., **IN260_XX** where **XX** is the participant number assigned to you. You should see two new messages which have been processed
 
-    <br><img src="/exercises/ex3/images/img311.jpg" width=60%>
+    <br><img src="/exercises/ex4/images/img403.png" width=100%> 
 
-3. In this view, you can filter integrations that are deployed by you by using the ID field. Here, to filter through the multiple messages that could have been processed in the last one hour, you can use the employee ID of the new hire, i.e., **IN260_XX** where **XX** is the participant number assigned to you
-    
     **Note**: Both the integration flows which subscribe to the event topic in Kafka should have been retriggered with this replay of New Hire event. If the status is not reflecting as completed, please contact one of the hands-on session moderator.
 
 ## Summary
