@@ -11,11 +11,11 @@ Run through the following steps
 
 2. You can see the multiple tiles providing a rich variety of monitoring options. For this exercise we will monitor messages that have been processed. Click on the tile to look at *All Integration Flows*
 
-    <br><img src="/exercises/ex3/images/img311.jpg" width=80%>
+    <br><img src="/exercises/ex3/images/img311.png" width=70%>
 
 3. In this view, you can filter integrations that are deployed by you by using the ID field. Here, to filter through the multiple messages that could have been processed in the last one hour, you can use the employee ID of the new hire, i.e., **IN260_XX**, where **XX** is the participant number assigned to you. (**Additional information**: This is possible due to the message mapping step explained in [Excercise 2.4](/exercises/ex2/ex24) where an *SAP_ApplicationID* header is set)
 
-    <br><img src="/exercises/ex3/images/img312.jpg" width=80%>
+    <br><img src="/exercises/ex3/images/img312.png" width=100%>
     
     **Note**: If the status is not reflecting as completed across the three integration flows, please contact one of the hands-on session moderators
 
@@ -24,11 +24,11 @@ Run through the following steps
     2. Navigate to the *Attachments* section
     3. Click to view the *Payload*
     
-    <br><img src="/exercises/ex3/images/img316.jpg" width=60%>
+    <br><img src="/exercises/ex3/images/img316.png" width=100%>
  
 5. Either copy this payload into a notepad (**Hint**: Ctrl-A to select the full text works in this text view) or download the payload (.txt file)
 
-    <br><img src="/exercises/ex3/images/img317.jpg" width=80%>
+    <br><img src="/exercises/ex3/images/img317.png" width=60%>
 
 ## Summary
 
