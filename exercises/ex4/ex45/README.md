@@ -22,23 +22,22 @@ Run through the following steps
     <br><img src="/exercises/ex4/images/img407.png" width=100%> 
 
 5.  Like you did before, replay the event by producing a new message in your Kafka topic, see [Exercise 4.1](/exercises/ex4/ex41)
-5.  Once the message has been reproduced, enter the Cloud Integration monitor again, adn from your *Trace* 
+6.  Once the message has been reproduced, enter the Cloud Integration monitor again. From your integration flow where you have enabled the trace, you can navigate to the message monitor by selecting the *Monitor Message Processing* link
 
     <br><img src="/exercises/ex4/images/img408.png" width=100%> 
 
-6.  to *Trace* 
+7.  In the message monitor, select the *Trace* link of the last message processed to enter the trace
 
     <br><img src="/exercises/ex4/images/img409.png" width=100%> 
 
-7.  to *Trace* 
+8.  In the trace, you can see that the local integration process where the event should be sent to SAP Process Automation hasn't been called as intended. Select the *End* event of the intergation process model, and switch to the *Message Content* 
 
     <br><img src="/exercises/ex4/images/img410.png" width=100%> 
 
-8.  to *Trace* 
+9.  In the *Message Content*, switch to the *Exchange Properties*. You can see that the exchange property *CamelDuplicateMessage* equals *true*, i.e., a duplicate was detected and hence the local integration process was skipped
 
     <br><img src="/exercises/ex4/images/img411.png" width=100%> 
 
 ## Summary
 
-Continue to - [Exercise 4.3](/exercises/ex4/ex43)
-Congratulations, this concludes the overall exercise. Navigate back to - [Exercise overview page](/README.md)
+Navigate back to - [Exercise overview page](/README.md)
