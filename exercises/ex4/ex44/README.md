@@ -15,4 +15,8 @@ Run through the following steps
 
 ## Summary
 
-Congratulations, this concludes the overall exercise. Navigate back to - [Exercise overview page](/README.md)
+Congratulations, this concludes the overall exercise.
+
+If you like to run through the optional exercise to rerun the scenario again with the tracing switched on, navigate to - [Exercise 4.5](/exercises/ex4/ex45).
+
+Otherwise navigate back to - [Exercise overview page](/README.md)
