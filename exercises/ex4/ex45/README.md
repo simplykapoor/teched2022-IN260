@@ -30,7 +30,7 @@ Run through the following steps
 
     <br><img src="/exercises/ex4/images/img409.png" width=100%> 
 
-8.  In the trace, you can see that the local integration process where the event should be sent to SAP Process Automation hasn't been called as intended. Select the *End* event of the intergation process model, and switch to the *Message Content* 
+8.  In the trace, you can see that the local integration process where the event should be sent to SAP Process Automation was not called as actually intended. Select the *End* event of the intergation process model, and switch to the *Message Content* 
 
     <br><img src="/exercises/ex4/images/img410.png" width=100%> 
 
