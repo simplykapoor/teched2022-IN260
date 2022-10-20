@@ -61,6 +61,7 @@ In the following, the complete list of exercise steps are listed. Run through th
     - [Check the Cloud Integration monitoring](exercises/ex4/ex42)
     - [Check your Email inbox](exercises/ex4/ex43)
     - [Check the SAP Build Process Automation](exercises/ex4/ex44)
+    - [[Optional] - Replay again with trace switched on](exercises/ex4/ex45)
     
 ## How to obtain support
 
