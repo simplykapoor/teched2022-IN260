@@ -19,7 +19,7 @@ Run through the following steps
     
 5. In the text space provided, replace the value on the screen with the message payload previously copied into your notepad or downloaded from monitoring view in [Exercise 3.3](/exercises/ex3/ex33)
 
-    <br><img src="/exercises/ex3/images/img319.jpg" width=70%>
+    <br><img src="/exercises/ex4/images/img401.png" width=90%>
 
 6. Click *Produce*. 
 
